@@ -7,7 +7,7 @@ Requirements
   * Download and install MiniConda from here: https://docs.conda.io/en/latest/miniconda.html
 * Create a new environment using the following command:
   ```bash
-  conda create -n mini-rag python=3.10
+  conda create -n mini-rag python=3.10conda create -n mini-rag python=3.10
  conda activate mini-rag
 
  pip install -r requirements.txt
