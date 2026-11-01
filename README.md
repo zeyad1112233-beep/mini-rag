@@ -37,7 +37,6 @@ export PS1="\[\033[01;32m\]\u@\h:\w\$ "
 
 ```bash
 $ pip install -r requirements.txt
-
 ```
 
 ### Setup the environment variables
